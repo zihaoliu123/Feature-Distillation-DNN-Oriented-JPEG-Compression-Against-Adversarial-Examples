@@ -8,7 +8,7 @@ https://arxiv.org/pdf/1803.05787.pdf
 * We add our feature distillation defense method in ./utils
 * Thanks for the decent code from EvadeML-Zoo. This work is extended from EvadeML-Zoo (https://github.com/mzweilin/EvadeML-Zoo) 
 * If you use this code please cite our paper: 
-
+## Cite this work
 @article{liu2018feature,
   title={Feature Distillation: DNN-Oriented JPEG Compression Against Adversarial Examples},
   author={Liu, Zihao and Liu, Qi and Liu, Tao and Wang, Yanzhi and Wen, Wujie},
