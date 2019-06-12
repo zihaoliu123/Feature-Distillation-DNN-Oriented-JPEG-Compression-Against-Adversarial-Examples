@@ -1,8 +1,10 @@
-## This work is extended from EvadeML-Zoo (https://github.com/mzweilin/EvadeML-Zoo) 
+This is an implementation of our work "Feature Distillation DNN-Oriented JPEG Compression Against Adversarial Examples" 
+https://arxiv.org/pdf/1803.05787.pdf
 
-Our paper "Feature Distillation DNN-Oriented JPEG Compression Against Adversarial Examples"
+
+
 * We add our feature distillation defense method in ./utils
-* Thanks for the decent code from EvadeML-Zoo
+* Thanks for the decent code from EvadeML-Zoo. This work is extended from EvadeML-Zoo (https://github.com/mzweilin/EvadeML-Zoo) 
 * If you use this code please cite our paper: 
 
 @article{liu2018feature,
